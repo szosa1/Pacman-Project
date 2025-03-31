@@ -1,2 +1,2 @@
 # Pacman-Project
-Pacman project with interactive GUI
+Pacman project with interactive GUI using Swing
